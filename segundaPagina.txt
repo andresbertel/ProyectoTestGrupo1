@@ -1,1 +1,2 @@
-Esta es mi primer GitHub usando sourcetree
+Buenas tardes a todos, esta es mi primer GitHub usando sourcetree.
+Le agrego algo mas a lo que estaba antes, encontré un error.
