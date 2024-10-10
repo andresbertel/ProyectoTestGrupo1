@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestGitGrupo1.Flamengo"
+             Title="Flamengo">
+    <VerticalStackLayout>
+
+        <Image Source="flamengo.png"
+               WidthRequest="200"
+               HeightRequest="200"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+        <Label 
+            Text="FLAMENGO"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+
+        <Label Text="El Clube de Regatas do Flamengo, conocido popularmente como Flamengo, es un club deportivo creado en el barrio de Flamengo en la ciudad de Río de Janeiro, Brasil."
+               FontSize="18"
+               TextColor="Black"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               HorizontalTextAlignment="Center"
+               LineBreakMode="WordWrap" />
+        
+    </VerticalStackLayout>
+</ContentPage>
