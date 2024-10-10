@@ -2,8 +2,6 @@
 {
     public partial class MainPage : ContentPage
     {
-      
-
         public MainPage()
         {
             InitializeComponent();
@@ -15,7 +13,10 @@
         {
             Navigation.PushAsync(new Introduccion());
         }
-
+        private void Button_ClickedDan(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Gatosiames());
+        }
         private void Button_Clicked_1(object sender, EventArgs e)
         {
             Navigation.PushAsync(new Aguilas());

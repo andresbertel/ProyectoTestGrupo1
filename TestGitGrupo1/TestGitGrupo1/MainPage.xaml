@@ -9,6 +9,9 @@
 
         <Button Text="Aguilas Doradas"
          Clicked="Button_Clicked_1"/>
+         
+        <Button Text="Gato Siamés"
+                Clicked="Button_ClickedDan"/>
     </StackLayout>
 
 </ContentPage>
