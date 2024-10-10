@@ -6,6 +6,9 @@
     <StackLayout>
         <Button Text="Introduccion"
                 Clicked="Button_Clicked"/>
+        
+        <Button Text="Real Madrid CF"
+                Clicked="Page_To_Real_Madrid"/>
     </StackLayout>
 
 </ContentPage>
