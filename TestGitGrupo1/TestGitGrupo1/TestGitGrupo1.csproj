@@ -63,6 +63,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Gatosiames.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Introduccion.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

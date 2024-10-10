@@ -4,8 +4,8 @@
              x:Class="TestGitGrupo1.MainPage">
 
     <StackLayout>
-        <Button Text="Introduccion"
-                Clicked="Button_Clicked"/>
+        <Button Text="Gato Siamés"
+                Clicked="Button_ClickedDan"/>
     </StackLayout>
 
 </ContentPage>

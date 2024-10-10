@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestGitGrupo1.Gatosiames"
+             Title="Gatosiames">
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label 
+            Text="Gato Siamés"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            />
+            <Label
+            Text="El siamés es una raza de gato que se caracteriza por su apariencia distintiva y su personalidad sociable y activa. Existen dos variedades principales: el siamés moderno y el siamés tradicional o Thai. Estos gatos son conocidos por ser vocales, inteligentes y afectuosos, estableciendo lazos estrechos con sus dueños."
+            />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
