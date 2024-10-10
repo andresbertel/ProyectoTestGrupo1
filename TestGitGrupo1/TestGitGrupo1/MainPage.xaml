@@ -6,6 +6,9 @@
     <StackLayout>
         <Button Text="Introduccion"
                 Clicked="Button_Clicked"/>
+
+        <Button Text="Aguilas Doradas"
+         Clicked="Button_Clicked_1"/>
     </StackLayout>
 
 </ContentPage>

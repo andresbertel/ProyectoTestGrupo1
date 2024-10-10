@@ -63,6 +63,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Aguilas.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Introduccion.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
