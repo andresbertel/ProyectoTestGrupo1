@@ -6,6 +6,11 @@
     <StackLayout>
         <Button Text="Introduccion"
                 Clicked="Button_Clicked"/>
+        
+        <Button Text="Junior_Club_SA"
+        Clicked="Button_soccer"/>
+        
+        
     </StackLayout>
 
 </ContentPage>
