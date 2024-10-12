@@ -74,6 +74,11 @@
 	 
 	  <MauiXaml Update="Introduccion.xaml">
 	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml> 
+	 
+	 
+	  <MauiXaml Update="Millonarios.xaml">
+	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
 

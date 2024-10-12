@@ -21,6 +21,11 @@
         {
             Navigation.PushAsync(new Aguilas());
         }
+
+        private void Button_Millonarios(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Millonarios());
+        }
     }
 
 }

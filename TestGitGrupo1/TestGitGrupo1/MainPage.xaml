@@ -12,6 +12,9 @@
          
         <Button Text="Gato Siamés"
                 Clicked="Button_ClickedDan"/>
+
+        <Button Text="Millonarios FC"
+                Clicked="Button_Millonarios"></Button>
     </StackLayout>
 
 </ContentPage>
